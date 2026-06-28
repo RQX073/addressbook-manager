@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Build output
+bin/
+build/
+target/
+
+# Java
+*.class
+*.jar
+*.war
+
+# Data files (may contain personal data)
+data/*.dat
+
+# Workbuddy internal
+.workbuddy/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
