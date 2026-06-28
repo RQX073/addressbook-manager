@@ -78,6 +78,4 @@ java -cp bin addressbook.App
 - IntelliJ IDEA
 - Windows 11
 
-## 📜 License
 
-MIT License
